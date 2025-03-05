@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Finance & Budget Tracker Dashboard
 
 ## Project info
 
